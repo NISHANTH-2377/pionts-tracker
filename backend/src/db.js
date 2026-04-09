@@ -38,6 +38,7 @@ const writeTeams = (teams) => {
     fs.writeFileSync(TEAMS_FILE, JSON.stringify(teams, null, 2));
   } catch (err) {
     console.error('Error writing teams:', err);
+    throw new Error('Cannot create team: failed to save data');
   }
 };
 
@@ -56,6 +57,7 @@ const writePointsLog = (logs) => {
     fs.writeFileSync(POINTS_LOG_FILE, JSON.stringify(logs, null, 2));
   } catch (err) {
     console.error('Error writing points log:', err);
+    throw new Error('Cannot update points: failed to save data');
   }
 };
 

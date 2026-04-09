@@ -57,7 +57,7 @@ function Home() {
       setTimeout(() => setSuccessMessage(''), 3000);
     } catch (error) {
       console.error('Error creating team:', error);
-      setSuccessMessage('Error creating team');
+      setSuccessMessage(`Error creating team: ${error.response?.data?.message || error.message}`);
       setTimeout(() => setSuccessMessage(''), 3000);
     } finally {
       setFormLoading(false);
