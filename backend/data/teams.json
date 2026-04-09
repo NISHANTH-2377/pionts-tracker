@@ -1,0 +1,30 @@
+[
+  {
+    "_id": "1775754241467",
+    "name": "123",
+    "description": "",
+    "color": "#3498db",
+    "members": [
+      "1",
+      "2",
+      "3"
+    ],
+    "currentPoints": 0,
+    "createdAt": "2026-04-09T17:04:01.468Z",
+    "updatedAt": "2026-04-09T17:04:01.468Z"
+  },
+  {
+    "_id": "1775754286007",
+    "name": "321",
+    "description": "",
+    "color": "#11344b",
+    "members": [
+      "3",
+      "2",
+      "1"
+    ],
+    "currentPoints": 1,
+    "createdAt": "2026-04-09T17:04:46.007Z",
+    "updatedAt": "2026-04-09T17:05:26.775Z"
+  }
+]
