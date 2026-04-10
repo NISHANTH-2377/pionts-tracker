@@ -87,6 +87,68 @@ function Home() {
     }
   };
 
+  const handleDeductAllTeams = async () => {
+    if (!window.confirm('Reduce 1 point from all teams?')) return;
+    if (teams.length === 0) return;
+
+    setFormLoading(true);
+    try {
+      await Promise.all(
+        teams.map((team) =>
+          axios.post(`${API_BASE}/teams/${team._id}/points`, {
+            points: -1,
+            reason: 'Global deduction',
+            addedBy: 'All teams adjustment',
+          })
+        )
+      );
+
+      setSuccessMessage('All teams lost 1 point.');
+      fetchTeams();
+      if (selectedTeam) {
+        handleSelectTeam(selectedTeam._id);
+      }
+      setTimeout(() => setSuccessMessage(''), 3000);
+    } catch (error) {
+      console.error('Error deducting points for all teams:', error);
+      setSuccessMessage('Error deducting points for all teams');
+      setTimeout(() => setSuccessMessage(''), 3000);
+    } finally {
+      setFormLoading(false);
+    }
+  };
+
+  const handleAddAllTeams = async () => {
+    if (!window.confirm('Add 1 point to all teams?')) return;
+    if (teams.length === 0) return;
+
+    setFormLoading(true);
+    try {
+      await Promise.all(
+        teams.map((team) =>
+          axios.post(`${API_BASE}/teams/${team._id}/points`, {
+            points: 1,
+            reason: 'Global addition',
+            addedBy: 'All teams adjustment',
+          })
+        )
+      );
+
+      setSuccessMessage('All teams gained 1 point.');
+      fetchTeams();
+      if (selectedTeam) {
+        handleSelectTeam(selectedTeam._id);
+      }
+      setTimeout(() => setSuccessMessage(''), 3000);
+    } catch (error) {
+      console.error('Error adding points for all teams:', error);
+      setSuccessMessage('Error adding points for all teams');
+      setTimeout(() => setSuccessMessage(''), 3000);
+    } finally {
+      setFormLoading(false);
+    }
+  };
+
   // Delete team
   const handleDeleteTeam = async (teamId) => {
     if (!window.confirm('Are you sure you want to delete this team? This action cannot be undone.')) {
@@ -118,6 +180,22 @@ function Home() {
       <div className="header">
         <h1>🎯 Points Tracker</h1>
         <p>Track and manage team points in real-time</p>
+        <div className="global-actions">
+          <button
+            className="all-teams-button add"
+            onClick={handleAddAllTeams}
+            disabled={formLoading || teams.length === 0}
+          >
+            Add 1 Point to All Teams
+          </button>
+          <button
+            className="all-teams-button deduct"
+            onClick={handleDeductAllTeams}
+            disabled={formLoading || teams.length === 0}
+          >
+            Reduce 1 Point from All Teams
+          </button>
+        </div>
       </div>
 
       <div className="main-content">
@@ -146,7 +224,7 @@ function Home() {
             teams={teams.filter(team => 
               team.name.toLowerCase().includes(searchQuery.toLowerCase())
             )} 
-            onSelectTeam={handleSelectTeam} 
+            onSelectTeam={handleSelectTeam}
           />
         </div>
 

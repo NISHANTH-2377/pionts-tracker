@@ -19,6 +19,44 @@ body {
   animation: slideDown 0.5s ease-out;
 }
 
+.all-teams-button {
+  margin-top: 20px;
+  padding: 12px 18px;
+  background: #f44336;
+  border: none;
+  border-radius: 8px;
+  font-size: 1em;
+  color: white;
+  font-weight: 700;
+  cursor: pointer;
+  transition: transform 0.2s, box-shadow 0.2s, opacity 0.2s;
+}
+
+.global-actions {
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+  margin-top: 20px;
+}
+
+.all-teams-button.add {
+  background: #38b673;
+}
+
+.all-teams-button.deduct {
+  background: #f44336;
+}
+
+.all-teams-button:hover:not(:disabled) {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 20px rgba(244, 67, 54, 0.3);
+}
+
+.all-teams-button:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
 .header h1 {
   font-size: 2.5em;
   margin: 0;
