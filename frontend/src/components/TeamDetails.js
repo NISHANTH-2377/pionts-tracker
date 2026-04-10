@@ -1,24 +1,42 @@
-import React from 'react';
+import React, { useState } from 'react';
 import './styles.css';
+import EditMembersModal from './EditMembersModal';
 
-const TeamDetails = ({ team, history, onDeleteTeam, isLoading }) => {
+const TeamDetails = ({ team, history, onDeleteTeam, onEditMembers, isLoading }) => {
+  const [showEditModal, setShowEditModal] = useState(false);
+
   if (!team) {
     return <div className="team-details">Select a team to view details</div>;
   }
+
+  const handleSaveMembers = async (members) => {
+    await onEditMembers(team._id, members);
+    setShowEditModal(false);
+  };
 
   return (
     <div className="team-details">
       <div className="team-header" style={{ borderColor: team.color }}>
         <div className="team-header-top">
           <h2>{team.name}</h2>
-          <button
-            className="delete-btn"
-            onClick={() => onDeleteTeam(team._id)}
-            disabled={isLoading}
-            title="Delete this team"
-          >
-            🗑️ Delete
-          </button>
+          <div className="header-buttons">
+            <button
+              className="edit-members-btn"
+              onClick={() => setShowEditModal(true)}
+              disabled={isLoading}
+              title="Edit team members"
+            >
+              ✏️ Edit Members
+            </button>
+            <button
+              className="delete-btn"
+              onClick={() => onDeleteTeam(team._id)}
+              disabled={isLoading}
+              title="Delete this team"
+            >
+              🗑️ Delete
+            </button>
+          </div>
         </div>
         <div className="team-info">
           <div className="info-item">
@@ -63,6 +81,15 @@ const TeamDetails = ({ team, history, onDeleteTeam, isLoading }) => {
             ))}
           </div>
         </div>
+      )}
+
+      {showEditModal && (
+        <EditMembersModal
+          team={team}
+          onSave={handleSaveMembers}
+          onCancel={() => setShowEditModal(false)}
+          isLoading={isLoading}
+        />
       )}
     </div>
   );

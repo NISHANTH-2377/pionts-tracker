@@ -234,6 +234,28 @@ function Home() {
     }
   };
 
+  // Edit team members
+  const handleEditMembers = async (teamId, members) => {
+    setFormLoading(true);
+    try {
+      const response = await axios.put(`${API_BASE}/teams/${teamId}`, {
+        members,
+      });
+      setSuccessMessage('Team members updated successfully!');
+      setSelectedTeam(response.data);
+      fetchTeams();
+      setTimeout(() => setSuccessMessage(''), 3000);
+    } catch (error) {
+      console.error('Error updating team members:', error);
+      setSuccessMessage(
+        `Error updating members: ${error.response?.data?.message || error.message}`
+      );
+      setTimeout(() => setSuccessMessage(''), 3000);
+    } finally {
+      setFormLoading(false);
+    }
+  };
+
   if (loading) {
     return <div className="container"><p>Loading...</p></div>;
   }
@@ -292,7 +314,7 @@ function Home() {
         </div>
 
         <div className="main-content">
-          <TeamDetails team={selectedTeam} history={teamHistory} onDeleteTeam={handleDeleteTeam} isLoading={formLoading} />
+          <TeamDetails team={selectedTeam} history={teamHistory} onDeleteTeam={handleDeleteTeam} onEditMembers={handleEditMembers} isLoading={formLoading} />
         </div>
       </div>
 

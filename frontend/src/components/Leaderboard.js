@@ -2,11 +2,13 @@ import React from 'react';
 import './styles.css';
 
 const Leaderboard = ({ teams, onSelectTeam }) => {
+  const sortedTeams = [...teams].sort((a, b) => b.currentPoints - a.currentPoints);
+  
   return (
     <div className="leaderboard">
       <h2>🏆 Leaderboard</h2>
       <div className="leaderboard-list">
-        {teams.map((team, index) => (
+        {sortedTeams.map((team, index) => (
           <div
             key={team._id}
             className="leaderboard-item"
