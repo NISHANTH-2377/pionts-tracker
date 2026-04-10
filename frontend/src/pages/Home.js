@@ -1,5 +1,6 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useCallback } from 'react';
 import axios from 'axios';
+import io from 'socket.io-client';
 import Leaderboard from '../components/Leaderboard';
 import TeamForm from '../components/TeamForm';
 import TeamDetails from '../components/TeamDetails';
@@ -15,14 +16,14 @@ function Home() {
   const [successMessage, setSuccessMessage] = useState('');
   const [searchQuery, setSearchQuery] = useState('');
 
-  const API_BASE = 'http://localhost:5000/api';
+  // Backend URL - change this to your server's IP for network access
+  // For localhost: http://localhost:5000
+  // For network: http://YOUR_IP_ADDRESS:5000
+  const API_BASE = process.env.REACT_APP_API_URL || 'http://localhost:5000/api';
+  const SOCKET_URL = process.env.REACT_APP_SOCKET_URL || 'http://localhost:5000';
 
-  // Fetch all teams
-  useEffect(() => {
-    fetchTeams();
-  }, []);
-
-  const fetchTeams = async () => {
+  // Wrap fetchTeams in useCallback to have stable identity
+  const fetchTeams = useCallback(async () => {
     try {
       const response = await axios.get(`${API_BASE}/teams`);
       setTeams(response.data);
@@ -31,7 +32,69 @@ function Home() {
       console.error('Error fetching teams:', error);
       setLoading(false);
     }
-  };
+  }, [API_BASE]);
+
+  // Fetch all teams on mount
+  useEffect(() => {
+    fetchTeams();
+  }, [fetchTeams]);
+
+  // Initialize WebSocket connection for real-time updates
+  useEffect(() => {
+    const newSocket = io(SOCKET_URL, {
+      reconnection: true,
+      reconnectionDelay: 1000,
+      reconnectionDelayMax: 5000,
+      reconnectionAttempts: 5,
+    });
+
+    newSocket.on('connect', () => {
+      console.log('Connected to server via WebSocket');
+    });
+
+    // Listen for real-time team updates
+    newSocket.on('team:created', (newTeam) => {
+      console.log('New team created:', newTeam);
+      setTeams((prevTeams) => [...prevTeams, newTeam]);
+    });
+
+    newSocket.on('team:updated', (updatedTeam) => {
+      console.log('Team updated:', updatedTeam);
+      setTeams((prevTeams) =>
+        prevTeams.map((team) => (team._id === updatedTeam._id ? updatedTeam : team))
+      );
+      // Update selected team if it's the one being updated
+      setSelectedTeam((prevSelected) => 
+        prevSelected && prevSelected._id === updatedTeam._id ? updatedTeam : prevSelected
+      );
+    });
+
+    newSocket.on('team:deleted', (data) => {
+      console.log('Team deleted:', data);
+      setTeams((prevTeams) => prevTeams.filter((team) => team._id !== data.id));
+      // Clear selected team if it was deleted
+      setSelectedTeam((prevSelected) => 
+        prevSelected && prevSelected._id === data.id ? null : prevSelected
+      );
+      setTeamHistory([]);
+    });
+
+    newSocket.on('points:added', (data) => {
+      console.log('Points added:', data);
+      // Update selected team with new points
+      setSelectedTeam((prevSelected) => 
+        prevSelected && prevSelected._id === data.teamId ? data.updatedTeam : prevSelected
+      );
+    });
+
+    newSocket.on('disconnect', () => {
+      console.log('Disconnected from server');
+    });
+
+    return () => {
+      newSocket.disconnect();
+    };
+  }, [SOCKET_URL]);
 
   // Fetch team details and history
   const handleSelectTeam = async (teamId) => {

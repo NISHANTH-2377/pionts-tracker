@@ -42,6 +42,11 @@ exports.createTeam = (req, res) => {
       color: color || '#3498db',
       members: members || [],
     });
+    
+    // Emit real-time event to all connected clients
+    const io = req.app.get('io');
+    io.emit('team:created', newTeam);
+    
     res.status(201).json(newTeam);
   } catch (error) {
     res.status(400).json({ message: error.message });
@@ -61,6 +66,11 @@ exports.updateTeam = (req, res) => {
     if (req.body.members) updateData.members = req.body.members;
 
     const updatedTeam = db.updateTeam(req.params.id, updateData);
+    
+    // Emit real-time event to all connected clients
+    const io = req.app.get('io');
+    io.emit('team:updated', updatedTeam);
+    
     res.json(updatedTeam);
   } catch (error) {
     res.status(400).json({ message: error.message });
@@ -74,6 +84,11 @@ exports.deleteTeam = (req, res) => {
     if (!team) return res.status(404).json({ message: 'Team not found' });
 
     db.deleteTeam(req.params.id);
+    
+    // Emit real-time event to all connected clients
+    const io = req.app.get('io');
+    io.emit('team:deleted', { id: req.params.id });
+    
     res.json({ message: 'Team deleted' });
   } catch (error) {
     res.status(500).json({ message: error.message });
@@ -104,6 +119,12 @@ exports.addPoints = (req, res) => {
 
     // Get updated team
     const updatedTeam = db.getTeamById(req.params.id);
+    
+    // Emit real-time events to all connected clients
+    const io = req.app.get('io');
+    io.emit('team:updated', updatedTeam);
+    io.emit('points:added', { teamId: req.params.id, log, updatedTeam });
+    
     res.json(updatedTeam);
   } catch (error) {
     res.status(400).json({ message: error.message });
