@@ -108,6 +108,12 @@ exports.addPoints = (req, res) => {
     const team = db.getTeamById(req.params.id);
     if (!team) return res.status(404).json({ message: 'Team not found' });
 
+    // Check if subtracting points would make total negative
+    const newTotal = (team.currentPoints || 0) + pointValue;
+    if (newTotal < 0) {
+      return res.status(400).json({ message: 'Points cannot be negative. Team currently has ' + (team.currentPoints || 0) + ' points.' });
+    }
+
     // Create points log
     const log = db.createPointsLog({
       teamId: req.params.id,

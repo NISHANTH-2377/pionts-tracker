@@ -1,1 +1,52 @@
-[]
+[
+  {
+    "_id": "1775883661320",
+    "name": "Fahh  : Ashmita N",
+    "description": "",
+    "color": "#3498db",
+    "members": [],
+    "currentPoints": 0,
+    "createdAt": "2026-04-11T05:01:01.320Z",
+    "updatedAt": "2026-04-11T11:05:05.002Z"
+  },
+  {
+    "_id": "1775883939817",
+    "name": "Nornheim  : Samyuktha B",
+    "description": "",
+    "color": "#3498db",
+    "members": [],
+    "currentPoints": 0,
+    "createdAt": "2026-04-11T05:05:39.817Z",
+    "updatedAt": "2026-04-11T11:02:29.413Z"
+  },
+  {
+    "_id": "1775883967295",
+    "name": "NAANGA NAALU PERU ENGALUKU BAYAM KEDAIATHU:Yashvanth",
+    "description": "",
+    "color": "#3498db",
+    "members": [],
+    "currentPoints": 0,
+    "createdAt": "2026-04-11T05:06:07.295Z",
+    "updatedAt": "2026-04-11T11:02:32.015Z"
+  },
+  {
+    "_id": "1775884039055",
+    "name": "Delight minds  : YOGASHRI R R",
+    "description": "",
+    "color": "#3498db",
+    "members": [],
+    "currentPoints": 0,
+    "createdAt": "2026-04-11T05:07:19.055Z",
+    "updatedAt": "2026-04-11T11:02:33.139Z"
+  },
+  {
+    "_id": "1775877986431",
+    "name": "blizard : vijay",
+    "description": "",
+    "color": "#3498db",
+    "members": [],
+    "currentPoints": 0,
+    "createdAt": "2026-04-11T03:26:26.431Z",
+    "updatedAt": "2026-04-11T11:02:34.406Z"
+  }
+]

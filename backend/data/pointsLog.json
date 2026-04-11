@@ -1,1 +1,2873 @@
-[]
+[
+  {
+    "_id": "1775885120587",
+    "teamId": "1775883661320",
+    "teamName": "Fahh  : Ashmita N",
+    "points": 1,
+    "reason": "Global addition",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T05:25:20.587Z"
+  },
+  {
+    "_id": "1775885120672",
+    "teamId": "1775883939817",
+    "teamName": "Nornheim  : Samyuktha B",
+    "points": 1,
+    "reason": "Global addition",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T05:25:20.672Z"
+  },
+  {
+    "_id": "1775885120694",
+    "teamId": "1775883967295",
+    "teamName": "NAANGA NAALU PERU ENGALUKU BAYAM KEDAIATHU:Yashvanth",
+    "points": 1,
+    "reason": "Global addition",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T05:25:20.694Z"
+  },
+  {
+    "_id": "1775885120739",
+    "teamId": "1775884039055",
+    "teamName": "Delight minds  : YOGASHRI R R",
+    "points": 1,
+    "reason": "Global addition",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T05:25:20.739Z"
+  },
+  {
+    "_id": "1775885122362",
+    "teamId": "1775883661320",
+    "teamName": "Fahh  : Ashmita N",
+    "points": 1,
+    "reason": "Global addition",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T05:25:22.362Z"
+  },
+  {
+    "_id": "1775885122466",
+    "teamId": "1775883939817",
+    "teamName": "Nornheim  : Samyuktha B",
+    "points": 1,
+    "reason": "Global addition",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T05:25:22.466Z"
+  },
+  {
+    "_id": "1775885122494",
+    "teamId": "1775883967295",
+    "teamName": "NAANGA NAALU PERU ENGALUKU BAYAM KEDAIATHU:Yashvanth",
+    "points": 1,
+    "reason": "Global addition",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T05:25:22.494Z"
+  },
+  {
+    "_id": "1775885122546",
+    "teamId": "1775884039055",
+    "teamName": "Delight minds  : YOGASHRI R R",
+    "points": 1,
+    "reason": "Global addition",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T05:25:22.546Z"
+  },
+  {
+    "_id": "1775885128171",
+    "teamId": "1775883661320",
+    "teamName": "Fahh  : Ashmita N",
+    "points": 1,
+    "reason": "Global addition",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T05:25:28.171Z"
+  },
+  {
+    "_id": "1775885128270",
+    "teamId": "1775883939817",
+    "teamName": "Nornheim  : Samyuktha B",
+    "points": 1,
+    "reason": "Global addition",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T05:25:28.270Z"
+  },
+  {
+    "_id": "1775885128297",
+    "teamId": "1775883967295",
+    "teamName": "NAANGA NAALU PERU ENGALUKU BAYAM KEDAIATHU:Yashvanth",
+    "points": 1,
+    "reason": "Global addition",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T05:25:28.297Z"
+  },
+  {
+    "_id": "1775885128350",
+    "teamId": "1775884039055",
+    "teamName": "Delight minds  : YOGASHRI R R",
+    "points": 1,
+    "reason": "Global addition",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T05:25:28.350Z"
+  },
+  {
+    "_id": "1775885130497",
+    "teamId": "1775883661320",
+    "teamName": "Fahh  : Ashmita N",
+    "points": 1,
+    "reason": "Global addition",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T05:25:30.497Z"
+  },
+  {
+    "_id": "1775885130631",
+    "teamId": "1775883939817",
+    "teamName": "Nornheim  : Samyuktha B",
+    "points": 1,
+    "reason": "Global addition",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T05:25:30.632Z"
+  },
+  {
+    "_id": "1775885130667",
+    "teamId": "1775883967295",
+    "teamName": "NAANGA NAALU PERU ENGALUKU BAYAM KEDAIATHU:Yashvanth",
+    "points": 1,
+    "reason": "Global addition",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T05:25:30.667Z"
+  },
+  {
+    "_id": "1775885130734",
+    "teamId": "1775884039055",
+    "teamName": "Delight minds  : YOGASHRI R R",
+    "points": 1,
+    "reason": "Global addition",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T05:25:30.734Z"
+  },
+  {
+    "_id": "1775885132562",
+    "teamId": "1775883661320",
+    "teamName": "Fahh  : Ashmita N",
+    "points": 1,
+    "reason": "Global addition",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T05:25:32.562Z"
+  },
+  {
+    "_id": "1775885132706",
+    "teamId": "1775883939817",
+    "teamName": "Nornheim  : Samyuktha B",
+    "points": 1,
+    "reason": "Global addition",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T05:25:32.706Z"
+  },
+  {
+    "_id": "1775885132737",
+    "teamId": "1775883967295",
+    "teamName": "NAANGA NAALU PERU ENGALUKU BAYAM KEDAIATHU:Yashvanth",
+    "points": 1,
+    "reason": "Global addition",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T05:25:32.737Z"
+  },
+  {
+    "_id": "1775885132802",
+    "teamId": "1775884039055",
+    "teamName": "Delight minds  : YOGASHRI R R",
+    "points": 1,
+    "reason": "Global addition",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T05:25:32.802Z"
+  },
+  {
+    "_id": "1775885134785",
+    "teamId": "1775883661320",
+    "teamName": "Fahh  : Ashmita N",
+    "points": 1,
+    "reason": "Global addition",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T05:25:34.785Z"
+  },
+  {
+    "_id": "1775885134908",
+    "teamId": "1775883939817",
+    "teamName": "Nornheim  : Samyuktha B",
+    "points": 1,
+    "reason": "Global addition",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T05:25:34.908Z"
+  },
+  {
+    "_id": "1775885134942",
+    "teamId": "1775883967295",
+    "teamName": "NAANGA NAALU PERU ENGALUKU BAYAM KEDAIATHU:Yashvanth",
+    "points": 1,
+    "reason": "Global addition",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T05:25:34.942Z"
+  },
+  {
+    "_id": "1775885135013",
+    "teamId": "1775884039055",
+    "teamName": "Delight minds  : YOGASHRI R R",
+    "points": 1,
+    "reason": "Global addition",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T05:25:35.013Z"
+  },
+  {
+    "_id": "1775885136819",
+    "teamId": "1775883661320",
+    "teamName": "Fahh  : Ashmita N",
+    "points": 1,
+    "reason": "Global addition",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T05:25:36.819Z"
+  },
+  {
+    "_id": "1775885136963",
+    "teamId": "1775883939817",
+    "teamName": "Nornheim  : Samyuktha B",
+    "points": 1,
+    "reason": "Global addition",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T05:25:36.963Z"
+  },
+  {
+    "_id": "1775885137001",
+    "teamId": "1775883967295",
+    "teamName": "NAANGA NAALU PERU ENGALUKU BAYAM KEDAIATHU:Yashvanth",
+    "points": 1,
+    "reason": "Global addition",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T05:25:37.001Z"
+  },
+  {
+    "_id": "1775885137077",
+    "teamId": "1775884039055",
+    "teamName": "Delight minds  : YOGASHRI R R",
+    "points": 1,
+    "reason": "Global addition",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T05:25:37.077Z"
+  },
+  {
+    "_id": "1775885138558",
+    "teamId": "1775883661320",
+    "teamName": "Fahh  : Ashmita N",
+    "points": 1,
+    "reason": "Global addition",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T05:25:38.558Z"
+  },
+  {
+    "_id": "1775885138710",
+    "teamId": "1775883939817",
+    "teamName": "Nornheim  : Samyuktha B",
+    "points": 1,
+    "reason": "Global addition",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T05:25:38.710Z"
+  },
+  {
+    "_id": "1775885138752",
+    "teamId": "1775883967295",
+    "teamName": "NAANGA NAALU PERU ENGALUKU BAYAM KEDAIATHU:Yashvanth",
+    "points": 1,
+    "reason": "Global addition",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T05:25:38.752Z"
+  },
+  {
+    "_id": "1775885138831",
+    "teamId": "1775884039055",
+    "teamName": "Delight minds  : YOGASHRI R R",
+    "points": 1,
+    "reason": "Global addition",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T05:25:38.831Z"
+  },
+  {
+    "_id": "1775885140580",
+    "teamId": "1775883661320",
+    "teamName": "Fahh  : Ashmita N",
+    "points": 1,
+    "reason": "Global addition",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T05:25:40.580Z"
+  },
+  {
+    "_id": "1775885140715",
+    "teamId": "1775883939817",
+    "teamName": "Nornheim  : Samyuktha B",
+    "points": 1,
+    "reason": "Global addition",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T05:25:40.715Z"
+  },
+  {
+    "_id": "1775885140754",
+    "teamId": "1775883967295",
+    "teamName": "NAANGA NAALU PERU ENGALUKU BAYAM KEDAIATHU:Yashvanth",
+    "points": 1,
+    "reason": "Global addition",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T05:25:40.754Z"
+  },
+  {
+    "_id": "1775885140833",
+    "teamId": "1775884039055",
+    "teamName": "Delight minds  : YOGASHRI R R",
+    "points": 1,
+    "reason": "Global addition",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T05:25:40.833Z"
+  },
+  {
+    "_id": "1775885142429",
+    "teamId": "1775883661320",
+    "teamName": "Fahh  : Ashmita N",
+    "points": 1,
+    "reason": "Global addition",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T05:25:42.429Z"
+  },
+  {
+    "_id": "1775885142588",
+    "teamId": "1775883939817",
+    "teamName": "Nornheim  : Samyuktha B",
+    "points": 1,
+    "reason": "Global addition",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T05:25:42.588Z"
+  },
+  {
+    "_id": "1775885142631",
+    "teamId": "1775883967295",
+    "teamName": "NAANGA NAALU PERU ENGALUKU BAYAM KEDAIATHU:Yashvanth",
+    "points": 1,
+    "reason": "Global addition",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T05:25:42.631Z"
+  },
+  {
+    "_id": "1775885142713",
+    "teamId": "1775884039055",
+    "teamName": "Delight minds  : YOGASHRI R R",
+    "points": 1,
+    "reason": "Global addition",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T05:25:42.713Z"
+  },
+  {
+    "_id": "1775885144366",
+    "teamId": "1775883661320",
+    "teamName": "Fahh  : Ashmita N",
+    "points": 1,
+    "reason": "Global addition",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T05:25:44.366Z"
+  },
+  {
+    "_id": "1775885144513",
+    "teamId": "1775883939817",
+    "teamName": "Nornheim  : Samyuktha B",
+    "points": 1,
+    "reason": "Global addition",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T05:25:44.513Z"
+  },
+  {
+    "_id": "1775885144556",
+    "teamId": "1775883967295",
+    "teamName": "NAANGA NAALU PERU ENGALUKU BAYAM KEDAIATHU:Yashvanth",
+    "points": 1,
+    "reason": "Global addition",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T05:25:44.556Z"
+  },
+  {
+    "_id": "1775885144641",
+    "teamId": "1775884039055",
+    "teamName": "Delight minds  : YOGASHRI R R",
+    "points": 1,
+    "reason": "Global addition",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T05:25:44.641Z"
+  },
+  {
+    "_id": "1775885146418",
+    "teamId": "1775883661320",
+    "teamName": "Fahh  : Ashmita N",
+    "points": 1,
+    "reason": "Global addition",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T05:25:46.418Z"
+  },
+  {
+    "_id": "1775885146597",
+    "teamId": "1775883939817",
+    "teamName": "Nornheim  : Samyuktha B",
+    "points": 1,
+    "reason": "Global addition",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T05:25:46.597Z"
+  },
+  {
+    "_id": "1775885146648",
+    "teamId": "1775883967295",
+    "teamName": "NAANGA NAALU PERU ENGALUKU BAYAM KEDAIATHU:Yashvanth",
+    "points": 1,
+    "reason": "Global addition",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T05:25:46.648Z"
+  },
+  {
+    "_id": "1775885146748",
+    "teamId": "1775884039055",
+    "teamName": "Delight minds  : YOGASHRI R R",
+    "points": 1,
+    "reason": "Global addition",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T05:25:46.749Z"
+  },
+  {
+    "_id": "1775885148429",
+    "teamId": "1775883661320",
+    "teamName": "Fahh  : Ashmita N",
+    "points": 1,
+    "reason": "Global addition",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T05:25:48.429Z"
+  },
+  {
+    "_id": "1775885148595",
+    "teamId": "1775883939817",
+    "teamName": "Nornheim  : Samyuktha B",
+    "points": 1,
+    "reason": "Global addition",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T05:25:48.595Z"
+  },
+  {
+    "_id": "1775885148643",
+    "teamId": "1775883967295",
+    "teamName": "NAANGA NAALU PERU ENGALUKU BAYAM KEDAIATHU:Yashvanth",
+    "points": 1,
+    "reason": "Global addition",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T05:25:48.643Z"
+  },
+  {
+    "_id": "1775885148739",
+    "teamId": "1775884039055",
+    "teamName": "Delight minds  : YOGASHRI R R",
+    "points": 1,
+    "reason": "Global addition",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T05:25:48.739Z"
+  },
+  {
+    "_id": "1775885151168",
+    "teamId": "1775883661320",
+    "teamName": "Fahh  : Ashmita N",
+    "points": 1,
+    "reason": "Global addition",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T05:25:51.168Z"
+  },
+  {
+    "_id": "1775885151358",
+    "teamId": "1775883939817",
+    "teamName": "Nornheim  : Samyuktha B",
+    "points": 1,
+    "reason": "Global addition",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T05:25:51.358Z"
+  },
+  {
+    "_id": "1775885151411",
+    "teamId": "1775883967295",
+    "teamName": "NAANGA NAALU PERU ENGALUKU BAYAM KEDAIATHU:Yashvanth",
+    "points": 1,
+    "reason": "Global addition",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T05:25:51.411Z"
+  },
+  {
+    "_id": "1775885151513",
+    "teamId": "1775884039055",
+    "teamName": "Delight minds  : YOGASHRI R R",
+    "points": 1,
+    "reason": "Global addition",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T05:25:51.513Z"
+  },
+  {
+    "_id": "1775885153296",
+    "teamId": "1775883661320",
+    "teamName": "Fahh  : Ashmita N",
+    "points": 1,
+    "reason": "Global addition",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T05:25:53.296Z"
+  },
+  {
+    "_id": "1775885153474",
+    "teamId": "1775883939817",
+    "teamName": "Nornheim  : Samyuktha B",
+    "points": 1,
+    "reason": "Global addition",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T05:25:53.474Z"
+  },
+  {
+    "_id": "1775885153528",
+    "teamId": "1775883967295",
+    "teamName": "NAANGA NAALU PERU ENGALUKU BAYAM KEDAIATHU:Yashvanth",
+    "points": 1,
+    "reason": "Global addition",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T05:25:53.528Z"
+  },
+  {
+    "_id": "1775885153628",
+    "teamId": "1775884039055",
+    "teamName": "Delight minds  : YOGASHRI R R",
+    "points": 1,
+    "reason": "Global addition",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T05:25:53.628Z"
+  },
+  {
+    "_id": "1775885162277",
+    "teamId": "1775883661320",
+    "teamName": "Fahh  : Ashmita N",
+    "points": 1,
+    "reason": "Global addition",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T05:26:02.277Z"
+  },
+  {
+    "_id": "1775885162464",
+    "teamId": "1775883939817",
+    "teamName": "Nornheim  : Samyuktha B",
+    "points": 1,
+    "reason": "Global addition",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T05:26:02.464Z"
+  },
+  {
+    "_id": "1775885162518",
+    "teamId": "1775883967295",
+    "teamName": "NAANGA NAALU PERU ENGALUKU BAYAM KEDAIATHU:Yashvanth",
+    "points": 1,
+    "reason": "Global addition",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T05:26:02.518Z"
+  },
+  {
+    "_id": "1775885162628",
+    "teamId": "1775884039055",
+    "teamName": "Delight minds  : YOGASHRI R R",
+    "points": 1,
+    "reason": "Global addition",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T05:26:02.628Z"
+  },
+  {
+    "_id": "1775885164361",
+    "teamId": "1775883661320",
+    "teamName": "Fahh  : Ashmita N",
+    "points": 1,
+    "reason": "Global addition",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T05:26:04.361Z"
+  },
+  {
+    "_id": "1775885164548",
+    "teamId": "1775883939817",
+    "teamName": "Nornheim  : Samyuktha B",
+    "points": 1,
+    "reason": "Global addition",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T05:26:04.548Z"
+  },
+  {
+    "_id": "1775885164606",
+    "teamId": "1775883967295",
+    "teamName": "NAANGA NAALU PERU ENGALUKU BAYAM KEDAIATHU:Yashvanth",
+    "points": 1,
+    "reason": "Global addition",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T05:26:04.606Z"
+  },
+  {
+    "_id": "1775885164710",
+    "teamId": "1775884039055",
+    "teamName": "Delight minds  : YOGASHRI R R",
+    "points": 1,
+    "reason": "Global addition",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T05:26:04.710Z"
+  },
+  {
+    "_id": "1775885170154",
+    "teamId": "1775883661320",
+    "teamName": "Fahh  : Ashmita N",
+    "points": 1,
+    "reason": "Global addition",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T05:26:10.154Z"
+  },
+  {
+    "_id": "1775885170314",
+    "teamId": "1775883939817",
+    "teamName": "Nornheim  : Samyuktha B",
+    "points": 1,
+    "reason": "Global addition",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T05:26:10.314Z"
+  },
+  {
+    "_id": "1775885170369",
+    "teamId": "1775883967295",
+    "teamName": "NAANGA NAALU PERU ENGALUKU BAYAM KEDAIATHU:Yashvanth",
+    "points": 1,
+    "reason": "Global addition",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T05:26:10.369Z"
+  },
+  {
+    "_id": "1775885170473",
+    "teamId": "1775884039055",
+    "teamName": "Delight minds  : YOGASHRI R R",
+    "points": 1,
+    "reason": "Global addition",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T05:26:10.473Z"
+  },
+  {
+    "_id": "1775885172189",
+    "teamId": "1775883661320",
+    "teamName": "Fahh  : Ashmita N",
+    "points": 1,
+    "reason": "Global addition",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T05:26:12.189Z"
+  },
+  {
+    "_id": "1775885172397",
+    "teamId": "1775883939817",
+    "teamName": "Nornheim  : Samyuktha B",
+    "points": 1,
+    "reason": "Global addition",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T05:26:12.397Z"
+  },
+  {
+    "_id": "1775885172453",
+    "teamId": "1775883967295",
+    "teamName": "NAANGA NAALU PERU ENGALUKU BAYAM KEDAIATHU:Yashvanth",
+    "points": 1,
+    "reason": "Global addition",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T05:26:12.453Z"
+  },
+  {
+    "_id": "1775885172560",
+    "teamId": "1775884039055",
+    "teamName": "Delight minds  : YOGASHRI R R",
+    "points": 1,
+    "reason": "Global addition",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T05:26:12.560Z"
+  },
+  {
+    "_id": "1775885174584",
+    "teamId": "1775883661320",
+    "teamName": "Fahh  : Ashmita N",
+    "points": 1,
+    "reason": "Global addition",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T05:26:14.584Z"
+  },
+  {
+    "_id": "1775885174784",
+    "teamId": "1775883939817",
+    "teamName": "Nornheim  : Samyuktha B",
+    "points": 1,
+    "reason": "Global addition",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T05:26:14.784Z"
+  },
+  {
+    "_id": "1775885174842",
+    "teamId": "1775883967295",
+    "teamName": "NAANGA NAALU PERU ENGALUKU BAYAM KEDAIATHU:Yashvanth",
+    "points": 1,
+    "reason": "Global addition",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T05:26:14.842Z"
+  },
+  {
+    "_id": "1775885174958",
+    "teamId": "1775884039055",
+    "teamName": "Delight minds  : YOGASHRI R R",
+    "points": 1,
+    "reason": "Global addition",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T05:26:14.958Z"
+  },
+  {
+    "_id": "1775885176623",
+    "teamId": "1775883661320",
+    "teamName": "Fahh  : Ashmita N",
+    "points": 1,
+    "reason": "Global addition",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T05:26:16.623Z"
+  },
+  {
+    "_id": "1775885176822",
+    "teamId": "1775883939817",
+    "teamName": "Nornheim  : Samyuktha B",
+    "points": 1,
+    "reason": "Global addition",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T05:26:16.822Z"
+  },
+  {
+    "_id": "1775885176879",
+    "teamId": "1775883967295",
+    "teamName": "NAANGA NAALU PERU ENGALUKU BAYAM KEDAIATHU:Yashvanth",
+    "points": 1,
+    "reason": "Global addition",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T05:26:16.879Z"
+  },
+  {
+    "_id": "1775885176995",
+    "teamId": "1775884039055",
+    "teamName": "Delight minds  : YOGASHRI R R",
+    "points": 1,
+    "reason": "Global addition",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T05:26:16.995Z"
+  },
+  {
+    "_id": "1775885178717",
+    "teamId": "1775883661320",
+    "teamName": "Fahh  : Ashmita N",
+    "points": 1,
+    "reason": "Global addition",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T05:26:18.717Z"
+  },
+  {
+    "_id": "1775885178949",
+    "teamId": "1775883939817",
+    "teamName": "Nornheim  : Samyuktha B",
+    "points": 1,
+    "reason": "Global addition",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T05:26:18.949Z"
+  },
+  {
+    "_id": "1775885179016",
+    "teamId": "1775883967295",
+    "teamName": "NAANGA NAALU PERU ENGALUKU BAYAM KEDAIATHU:Yashvanth",
+    "points": 1,
+    "reason": "Global addition",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T05:26:19.016Z"
+  },
+  {
+    "_id": "1775885179136",
+    "teamId": "1775884039055",
+    "teamName": "Delight minds  : YOGASHRI R R",
+    "points": 1,
+    "reason": "Global addition",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T05:26:19.136Z"
+  },
+  {
+    "_id": "1775885180990",
+    "teamId": "1775883661320",
+    "teamName": "Fahh  : Ashmita N",
+    "points": 1,
+    "reason": "Global addition",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T05:26:20.990Z"
+  },
+  {
+    "_id": "1775885181221",
+    "teamId": "1775883939817",
+    "teamName": "Nornheim  : Samyuktha B",
+    "points": 1,
+    "reason": "Global addition",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T05:26:21.221Z"
+  },
+  {
+    "_id": "1775885181280",
+    "teamId": "1775883967295",
+    "teamName": "NAANGA NAALU PERU ENGALUKU BAYAM KEDAIATHU:Yashvanth",
+    "points": 1,
+    "reason": "Global addition",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T05:26:21.280Z"
+  },
+  {
+    "_id": "1775885181403",
+    "teamId": "1775884039055",
+    "teamName": "Delight minds  : YOGASHRI R R",
+    "points": 1,
+    "reason": "Global addition",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T05:26:21.403Z"
+  },
+  {
+    "_id": "1775885184053",
+    "teamId": "1775883661320",
+    "teamName": "Fahh  : Ashmita N",
+    "points": 1,
+    "reason": "Global addition",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T05:26:24.053Z"
+  },
+  {
+    "_id": "1775885184282",
+    "teamId": "1775883939817",
+    "teamName": "Nornheim  : Samyuktha B",
+    "points": 1,
+    "reason": "Global addition",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T05:26:24.282Z"
+  },
+  {
+    "_id": "1775885184357",
+    "teamId": "1775883967295",
+    "teamName": "NAANGA NAALU PERU ENGALUKU BAYAM KEDAIATHU:Yashvanth",
+    "points": 1,
+    "reason": "Global addition",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T05:26:24.357Z"
+  },
+  {
+    "_id": "1775885184494",
+    "teamId": "1775884039055",
+    "teamName": "Delight minds  : YOGASHRI R R",
+    "points": 1,
+    "reason": "Global addition",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T05:26:24.494Z"
+  },
+  {
+    "_id": "1775885188111",
+    "teamId": "1775883661320",
+    "teamName": "Fahh  : Ashmita N",
+    "points": 1,
+    "reason": "Global addition",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T05:26:28.111Z"
+  },
+  {
+    "_id": "1775885188332",
+    "teamId": "1775883939817",
+    "teamName": "Nornheim  : Samyuktha B",
+    "points": 1,
+    "reason": "Global addition",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T05:26:28.332Z"
+  },
+  {
+    "_id": "1775885188394",
+    "teamId": "1775883967295",
+    "teamName": "NAANGA NAALU PERU ENGALUKU BAYAM KEDAIATHU:Yashvanth",
+    "points": 1,
+    "reason": "Global addition",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T05:26:28.394Z"
+  },
+  {
+    "_id": "1775885188515",
+    "teamId": "1775884039055",
+    "teamName": "Delight minds  : YOGASHRI R R",
+    "points": 1,
+    "reason": "Global addition",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T05:26:28.515Z"
+  },
+  {
+    "_id": "1775885190253",
+    "teamId": "1775883661320",
+    "teamName": "Fahh  : Ashmita N",
+    "points": 1,
+    "reason": "Global addition",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T05:26:30.253Z"
+  },
+  {
+    "_id": "1775885190483",
+    "teamId": "1775883939817",
+    "teamName": "Nornheim  : Samyuktha B",
+    "points": 1,
+    "reason": "Global addition",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T05:26:30.483Z"
+  },
+  {
+    "_id": "1775885190551",
+    "teamId": "1775883967295",
+    "teamName": "NAANGA NAALU PERU ENGALUKU BAYAM KEDAIATHU:Yashvanth",
+    "points": 1,
+    "reason": "Global addition",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T05:26:30.551Z"
+  },
+  {
+    "_id": "1775885190688",
+    "teamId": "1775884039055",
+    "teamName": "Delight minds  : YOGASHRI R R",
+    "points": 1,
+    "reason": "Global addition",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T05:26:30.688Z"
+  },
+  {
+    "_id": "1775885986721",
+    "teamId": "1775883661320",
+    "teamName": "Fahh  : Ashmita N",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T05:39:46.721Z"
+  },
+  {
+    "_id": "1775885986819",
+    "teamId": "1775883939817",
+    "teamName": "Nornheim  : Samyuktha B",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T05:39:46.819Z"
+  },
+  {
+    "_id": "1775885986847",
+    "teamId": "1775883967295",
+    "teamName": "NAANGA NAALU PERU ENGALUKU BAYAM KEDAIATHU:Yashvanth",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T05:39:46.847Z"
+  },
+  {
+    "_id": "1775885986907",
+    "teamId": "1775884039055",
+    "teamName": "Delight minds  : YOGASHRI R R",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T05:39:46.907Z"
+  },
+  {
+    "_id": "1775896862530",
+    "teamId": "1775883967295",
+    "teamName": "NAANGA NAALU PERU ENGALUKU BAYAM KEDAIATHU:Yashvanth",
+    "points": 1,
+    "reason": "P",
+    "addedBy": "Unknown",
+    "createdAt": "2026-04-11T08:41:02.530Z"
+  },
+  {
+    "_id": "1775877473138",
+    "teamId": "1775883661320",
+    "teamName": "Fahh  : Ashmita N",
+    "points": 1,
+    "reason": "P",
+    "addedBy": "Unknown",
+    "createdAt": "2026-04-11T03:17:53.138Z"
+  },
+  {
+    "_id": "1775877822224",
+    "teamId": "1775883939817",
+    "teamName": "Nornheim  : Samyuktha B",
+    "points": 1,
+    "reason": "p",
+    "addedBy": "Unknown",
+    "createdAt": "2026-04-11T03:23:42.224Z"
+  },
+  {
+    "_id": "1775877857659",
+    "teamId": "1775884039055",
+    "teamName": "Delight minds  : YOGASHRI R R",
+    "points": 1,
+    "reason": "p",
+    "addedBy": "Unknown",
+    "createdAt": "2026-04-11T03:24:17.659Z"
+  },
+  {
+    "_id": "1775878000540",
+    "teamId": "1775877986431",
+    "teamName": "blizard : vijay",
+    "points": 26,
+    "reason": "p",
+    "addedBy": "Unknown",
+    "createdAt": "2026-04-11T03:26:40.540Z"
+  },
+  {
+    "_id": "1775879522399",
+    "teamId": "1775884039055",
+    "teamName": "Delight minds  : YOGASHRI R R",
+    "points": 3,
+    "reason": "2",
+    "addedBy": "Unknown",
+    "createdAt": "2026-04-11T03:52:02.399Z"
+  },
+  {
+    "_id": "1775879615481",
+    "teamId": "1775883661320",
+    "teamName": "Fahh  : Ashmita N",
+    "points": -1,
+    "reason": "3",
+    "addedBy": "Unknown",
+    "createdAt": "2026-04-11T03:53:35.481Z"
+  },
+  {
+    "_id": "1775879854675",
+    "teamId": "1775883967295",
+    "teamName": "NAANGA NAALU PERU ENGALUKU BAYAM KEDAIATHU:Yashvanth",
+    "points": -1,
+    "reason": "5",
+    "addedBy": "Unknown",
+    "createdAt": "2026-04-11T03:57:34.675Z"
+  },
+  {
+    "_id": "1775880074284",
+    "teamId": "1775883661320",
+    "teamName": "Fahh  : Ashmita N",
+    "points": 3,
+    "reason": "5",
+    "addedBy": "Unknown",
+    "createdAt": "2026-04-11T04:01:14.284Z"
+  },
+  {
+    "_id": "1775880168120",
+    "teamId": "1775883967295",
+    "teamName": "NAANGA NAALU PERU ENGALUKU BAYAM KEDAIATHU:Yashvanth",
+    "points": 3,
+    "reason": "5",
+    "addedBy": "Unknown",
+    "createdAt": "2026-04-11T04:02:48.120Z"
+  },
+  {
+    "_id": "1775880277059",
+    "teamId": "1775883939817",
+    "teamName": "Nornheim  : Samyuktha B",
+    "points": -1,
+    "reason": "6",
+    "addedBy": "Unknown",
+    "createdAt": "2026-04-11T04:04:37.059Z"
+  },
+  {
+    "_id": "1775880342917",
+    "teamId": "1775883661320",
+    "teamName": "Fahh  : Ashmita N",
+    "points": -1,
+    "reason": "6",
+    "addedBy": "Unknown",
+    "createdAt": "2026-04-11T04:05:42.917Z"
+  },
+  {
+    "_id": "1775880385159",
+    "teamId": "1775877986431",
+    "teamName": "blizard : vijay",
+    "points": -1,
+    "reason": "6",
+    "addedBy": "Unknown",
+    "createdAt": "2026-04-11T04:06:25.159Z"
+  },
+  {
+    "_id": "1775880435017",
+    "teamId": "1775884039055",
+    "teamName": "Delight minds  : YOGASHRI R R",
+    "points": 3,
+    "reason": "6",
+    "addedBy": "Unknown",
+    "createdAt": "2026-04-11T04:07:15.017Z"
+  },
+  {
+    "_id": "1775880554281",
+    "teamId": "1775883967295",
+    "teamName": "NAANGA NAALU PERU ENGALUKU BAYAM KEDAIATHU:Yashvanth",
+    "points": -1,
+    "reason": "7",
+    "addedBy": "Unknown",
+    "createdAt": "2026-04-11T04:09:14.281Z"
+  },
+  {
+    "_id": "1775880637087",
+    "teamId": "1775883939817",
+    "teamName": "Nornheim  : Samyuktha B",
+    "points": 3,
+    "reason": "7",
+    "addedBy": "Unknown",
+    "createdAt": "2026-04-11T04:10:37.087Z"
+  },
+  {
+    "_id": "1775880646032",
+    "teamId": "1775883939817",
+    "teamName": "Nornheim  : Samyuktha B",
+    "points": 2,
+    "reason": "7",
+    "addedBy": "Unknown",
+    "createdAt": "2026-04-11T04:10:46.032Z"
+  },
+  {
+    "_id": "1775880660612",
+    "teamId": "1775883939817",
+    "teamName": "Nornheim  : Samyuktha B",
+    "points": -1,
+    "reason": "7",
+    "addedBy": "Unknown",
+    "createdAt": "2026-04-11T04:11:00.612Z"
+  },
+  {
+    "_id": "1775880770458",
+    "teamId": "1775877986431",
+    "teamName": "blizard : vijay",
+    "points": 3,
+    "reason": "8",
+    "addedBy": "Unknown",
+    "createdAt": "2026-04-11T04:12:50.458Z"
+  },
+  {
+    "_id": "1775880849399",
+    "teamId": "1775883967295",
+    "teamName": "NAANGA NAALU PERU ENGALUKU BAYAM KEDAIATHU:Yashvanth",
+    "points": 3,
+    "reason": "8",
+    "addedBy": "Unknown",
+    "createdAt": "2026-04-11T04:14:09.399Z"
+  },
+  {
+    "_id": "1775881005526",
+    "teamId": "1775883939817",
+    "teamName": "Nornheim  : Samyuktha B",
+    "points": 3,
+    "reason": "10",
+    "addedBy": "Unknown",
+    "createdAt": "2026-04-11T04:16:45.527Z"
+  },
+  {
+    "_id": "1775881141246",
+    "teamId": "1775877986431",
+    "teamName": "blizard : vijay",
+    "points": -1,
+    "reason": "11",
+    "addedBy": "Unknown",
+    "createdAt": "2026-04-11T04:19:01.246Z"
+  },
+  {
+    "_id": "1775881311703",
+    "teamId": "1775883967295",
+    "teamName": "NAANGA NAALU PERU ENGALUKU BAYAM KEDAIATHU:Yashvanth",
+    "points": -1,
+    "reason": "12",
+    "addedBy": "Unknown",
+    "createdAt": "2026-04-11T04:21:51.704Z"
+  },
+  {
+    "_id": "1775881364268",
+    "teamId": "1775883939817",
+    "teamName": "Nornheim  : Samyuktha B",
+    "points": -1,
+    "reason": "12",
+    "addedBy": "Unknown",
+    "createdAt": "2026-04-11T04:22:44.268Z"
+  },
+  {
+    "_id": "1775881382252",
+    "teamId": "1775877986431",
+    "teamName": "blizard : vijay",
+    "points": 3,
+    "reason": "12",
+    "addedBy": "Unknown",
+    "createdAt": "2026-04-11T04:23:02.252Z"
+  },
+  {
+    "_id": "1775881588750",
+    "teamId": "1775877986431",
+    "teamName": "blizard : vijay",
+    "points": -1,
+    "reason": "14",
+    "addedBy": "Unknown",
+    "createdAt": "2026-04-11T04:26:28.750Z"
+  },
+  {
+    "_id": "1775882549769",
+    "teamId": "1775884039055",
+    "teamName": "Delight minds  : YOGASHRI R R",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:42:29.769Z"
+  },
+  {
+    "_id": "1775882549791",
+    "teamId": "1775883939817",
+    "teamName": "Nornheim  : Samyuktha B",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:42:29.791Z"
+  },
+  {
+    "_id": "1775882549811",
+    "teamId": "1775883967295",
+    "teamName": "NAANGA NAALU PERU ENGALUKU BAYAM KEDAIATHU:Yashvanth",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:42:29.811Z"
+  },
+  {
+    "_id": "1775882549827",
+    "teamId": "1775877986431",
+    "teamName": "blizard : vijay",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:42:29.827Z"
+  },
+  {
+    "_id": "1775882549839",
+    "teamId": "1775883661320",
+    "teamName": "Fahh  : Ashmita N",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:42:29.839Z"
+  },
+  {
+    "_id": "1775882551301",
+    "teamId": "1775884039055",
+    "teamName": "Delight minds  : YOGASHRI R R",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:42:31.301Z"
+  },
+  {
+    "_id": "1775882551316",
+    "teamId": "1775883939817",
+    "teamName": "Nornheim  : Samyuktha B",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:42:31.316Z"
+  },
+  {
+    "_id": "1775882551346",
+    "teamId": "1775883967295",
+    "teamName": "NAANGA NAALU PERU ENGALUKU BAYAM KEDAIATHU:Yashvanth",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:42:31.346Z"
+  },
+  {
+    "_id": "1775882551361",
+    "teamId": "1775877986431",
+    "teamName": "blizard : vijay",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:42:31.361Z"
+  },
+  {
+    "_id": "1775882551376",
+    "teamId": "1775883661320",
+    "teamName": "Fahh  : Ashmita N",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:42:31.376Z"
+  },
+  {
+    "_id": "1775882555526",
+    "teamId": "1775884039055",
+    "teamName": "Delight minds  : YOGASHRI R R",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:42:35.526Z"
+  },
+  {
+    "_id": "1775882555542",
+    "teamId": "1775883939817",
+    "teamName": "Nornheim  : Samyuktha B",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:42:35.542Z"
+  },
+  {
+    "_id": "1775882555568",
+    "teamId": "1775883967295",
+    "teamName": "NAANGA NAALU PERU ENGALUKU BAYAM KEDAIATHU:Yashvanth",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:42:35.568Z"
+  },
+  {
+    "_id": "1775882555581",
+    "teamId": "1775877986431",
+    "teamName": "blizard : vijay",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:42:35.581Z"
+  },
+  {
+    "_id": "1775882555595",
+    "teamId": "1775883661320",
+    "teamName": "Fahh  : Ashmita N",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:42:35.595Z"
+  },
+  {
+    "_id": "1775882558921",
+    "teamId": "1775884039055",
+    "teamName": "Delight minds  : YOGASHRI R R",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:42:38.921Z"
+  },
+  {
+    "_id": "1775882558935",
+    "teamId": "1775883939817",
+    "teamName": "Nornheim  : Samyuktha B",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:42:38.935Z"
+  },
+  {
+    "_id": "1775882558965",
+    "teamId": "1775883967295",
+    "teamName": "NAANGA NAALU PERU ENGALUKU BAYAM KEDAIATHU:Yashvanth",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:42:38.965Z"
+  },
+  {
+    "_id": "1775882558979",
+    "teamId": "1775877986431",
+    "teamName": "blizard : vijay",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:42:38.979Z"
+  },
+  {
+    "_id": "1775882558994",
+    "teamId": "1775883661320",
+    "teamName": "Fahh  : Ashmita N",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:42:38.994Z"
+  },
+  {
+    "_id": "1775882560737",
+    "teamId": "1775884039055",
+    "teamName": "Delight minds  : YOGASHRI R R",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:42:40.737Z"
+  },
+  {
+    "_id": "1775882560754",
+    "teamId": "1775883939817",
+    "teamName": "Nornheim  : Samyuktha B",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:42:40.754Z"
+  },
+  {
+    "_id": "1775882560784",
+    "teamId": "1775883967295",
+    "teamName": "NAANGA NAALU PERU ENGALUKU BAYAM KEDAIATHU:Yashvanth",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:42:40.784Z"
+  },
+  {
+    "_id": "1775882560798",
+    "teamId": "1775877986431",
+    "teamName": "blizard : vijay",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:42:40.798Z"
+  },
+  {
+    "_id": "1775882560813",
+    "teamId": "1775883661320",
+    "teamName": "Fahh  : Ashmita N",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:42:40.813Z"
+  },
+  {
+    "_id": "1775882563657",
+    "teamId": "1775884039055",
+    "teamName": "Delight minds  : YOGASHRI R R",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:42:43.657Z"
+  },
+  {
+    "_id": "1775882563670",
+    "teamId": "1775883939817",
+    "teamName": "Nornheim  : Samyuktha B",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:42:43.670Z"
+  },
+  {
+    "_id": "1775882563702",
+    "teamId": "1775883967295",
+    "teamName": "NAANGA NAALU PERU ENGALUKU BAYAM KEDAIATHU:Yashvanth",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:42:43.702Z"
+  },
+  {
+    "_id": "1775882563715",
+    "teamId": "1775877986431",
+    "teamName": "blizard : vijay",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:42:43.715Z"
+  },
+  {
+    "_id": "1775882563728",
+    "teamId": "1775883661320",
+    "teamName": "Fahh  : Ashmita N",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:42:43.728Z"
+  },
+  {
+    "_id": "1775882566032",
+    "teamId": "1775884039055",
+    "teamName": "Delight minds  : YOGASHRI R R",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:42:46.032Z"
+  },
+  {
+    "_id": "1775882566047",
+    "teamId": "1775883939817",
+    "teamName": "Nornheim  : Samyuktha B",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:42:46.047Z"
+  },
+  {
+    "_id": "1775882566075",
+    "teamId": "1775883967295",
+    "teamName": "NAANGA NAALU PERU ENGALUKU BAYAM KEDAIATHU:Yashvanth",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:42:46.075Z"
+  },
+  {
+    "_id": "1775882566087",
+    "teamId": "1775877986431",
+    "teamName": "blizard : vijay",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:42:46.087Z"
+  },
+  {
+    "_id": "1775882566101",
+    "teamId": "1775883661320",
+    "teamName": "Fahh  : Ashmita N",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:42:46.101Z"
+  },
+  {
+    "_id": "1775882568655",
+    "teamId": "1775884039055",
+    "teamName": "Delight minds  : YOGASHRI R R",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:42:48.655Z"
+  },
+  {
+    "_id": "1775882568669",
+    "teamId": "1775883939817",
+    "teamName": "Nornheim  : Samyuktha B",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:42:48.669Z"
+  },
+  {
+    "_id": "1775882568699",
+    "teamId": "1775883967295",
+    "teamName": "NAANGA NAALU PERU ENGALUKU BAYAM KEDAIATHU:Yashvanth",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:42:48.699Z"
+  },
+  {
+    "_id": "1775882568712",
+    "teamId": "1775877986431",
+    "teamName": "blizard : vijay",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:42:48.712Z"
+  },
+  {
+    "_id": "1775882568727",
+    "teamId": "1775883661320",
+    "teamName": "Fahh  : Ashmita N",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:42:48.727Z"
+  },
+  {
+    "_id": "1775882570447",
+    "teamId": "1775884039055",
+    "teamName": "Delight minds  : YOGASHRI R R",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:42:50.447Z"
+  },
+  {
+    "_id": "1775882570463",
+    "teamId": "1775883939817",
+    "teamName": "Nornheim  : Samyuktha B",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:42:50.463Z"
+  },
+  {
+    "_id": "1775882570492",
+    "teamId": "1775883967295",
+    "teamName": "NAANGA NAALU PERU ENGALUKU BAYAM KEDAIATHU:Yashvanth",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:42:50.492Z"
+  },
+  {
+    "_id": "1775882570506",
+    "teamId": "1775877986431",
+    "teamName": "blizard : vijay",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:42:50.506Z"
+  },
+  {
+    "_id": "1775882570519",
+    "teamId": "1775883661320",
+    "teamName": "Fahh  : Ashmita N",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:42:50.519Z"
+  },
+  {
+    "_id": "1775882571937",
+    "teamId": "1775884039055",
+    "teamName": "Delight minds  : YOGASHRI R R",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:42:51.937Z"
+  },
+  {
+    "_id": "1775882571954",
+    "teamId": "1775883939817",
+    "teamName": "Nornheim  : Samyuktha B",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:42:51.954Z"
+  },
+  {
+    "_id": "1775882571977",
+    "teamId": "1775883967295",
+    "teamName": "NAANGA NAALU PERU ENGALUKU BAYAM KEDAIATHU:Yashvanth",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:42:51.977Z"
+  },
+  {
+    "_id": "1775882571993",
+    "teamId": "1775877986431",
+    "teamName": "blizard : vijay",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:42:51.993Z"
+  },
+  {
+    "_id": "1775882572007",
+    "teamId": "1775883661320",
+    "teamName": "Fahh  : Ashmita N",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:42:52.007Z"
+  },
+  {
+    "_id": "1775882573760",
+    "teamId": "1775884039055",
+    "teamName": "Delight minds  : YOGASHRI R R",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:42:53.760Z"
+  },
+  {
+    "_id": "1775882573775",
+    "teamId": "1775883939817",
+    "teamName": "Nornheim  : Samyuktha B",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:42:53.775Z"
+  },
+  {
+    "_id": "1775882573804",
+    "teamId": "1775883967295",
+    "teamName": "NAANGA NAALU PERU ENGALUKU BAYAM KEDAIATHU:Yashvanth",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:42:53.804Z"
+  },
+  {
+    "_id": "1775882573820",
+    "teamId": "1775877986431",
+    "teamName": "blizard : vijay",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:42:53.820Z"
+  },
+  {
+    "_id": "1775882573837",
+    "teamId": "1775883661320",
+    "teamName": "Fahh  : Ashmita N",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:42:53.837Z"
+  },
+  {
+    "_id": "1775882575079",
+    "teamId": "1775884039055",
+    "teamName": "Delight minds  : YOGASHRI R R",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:42:55.079Z"
+  },
+  {
+    "_id": "1775882575095",
+    "teamId": "1775883939817",
+    "teamName": "Nornheim  : Samyuktha B",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:42:55.095Z"
+  },
+  {
+    "_id": "1775882575123",
+    "teamId": "1775883967295",
+    "teamName": "NAANGA NAALU PERU ENGALUKU BAYAM KEDAIATHU:Yashvanth",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:42:55.123Z"
+  },
+  {
+    "_id": "1775882575137",
+    "teamId": "1775877986431",
+    "teamName": "blizard : vijay",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:42:55.137Z"
+  },
+  {
+    "_id": "1775882575151",
+    "teamId": "1775883661320",
+    "teamName": "Fahh  : Ashmita N",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:42:55.151Z"
+  },
+  {
+    "_id": "1775882577447",
+    "teamId": "1775884039055",
+    "teamName": "Delight minds  : YOGASHRI R R",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:42:57.447Z"
+  },
+  {
+    "_id": "1775882577465",
+    "teamId": "1775883939817",
+    "teamName": "Nornheim  : Samyuktha B",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:42:57.465Z"
+  },
+  {
+    "_id": "1775882577493",
+    "teamId": "1775883967295",
+    "teamName": "NAANGA NAALU PERU ENGALUKU BAYAM KEDAIATHU:Yashvanth",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:42:57.493Z"
+  },
+  {
+    "_id": "1775882577505",
+    "teamId": "1775877986431",
+    "teamName": "blizard : vijay",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:42:57.505Z"
+  },
+  {
+    "_id": "1775882577518",
+    "teamId": "1775883661320",
+    "teamName": "Fahh  : Ashmita N",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:42:57.518Z"
+  },
+  {
+    "_id": "1775882579096",
+    "teamId": "1775884039055",
+    "teamName": "Delight minds  : YOGASHRI R R",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:42:59.096Z"
+  },
+  {
+    "_id": "1775882579114",
+    "teamId": "1775883939817",
+    "teamName": "Nornheim  : Samyuktha B",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:42:59.114Z"
+  },
+  {
+    "_id": "1775882579143",
+    "teamId": "1775883967295",
+    "teamName": "NAANGA NAALU PERU ENGALUKU BAYAM KEDAIATHU:Yashvanth",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:42:59.143Z"
+  },
+  {
+    "_id": "1775882579159",
+    "teamId": "1775877986431",
+    "teamName": "blizard : vijay",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:42:59.159Z"
+  },
+  {
+    "_id": "1775882579173",
+    "teamId": "1775883661320",
+    "teamName": "Fahh  : Ashmita N",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:42:59.173Z"
+  },
+  {
+    "_id": "1775882580796",
+    "teamId": "1775884039055",
+    "teamName": "Delight minds  : YOGASHRI R R",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:43:00.796Z"
+  },
+  {
+    "_id": "1775882580811",
+    "teamId": "1775883939817",
+    "teamName": "Nornheim  : Samyuktha B",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:43:00.811Z"
+  },
+  {
+    "_id": "1775882580843",
+    "teamId": "1775883967295",
+    "teamName": "NAANGA NAALU PERU ENGALUKU BAYAM KEDAIATHU:Yashvanth",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:43:00.843Z"
+  },
+  {
+    "_id": "1775882580857",
+    "teamId": "1775877986431",
+    "teamName": "blizard : vijay",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:43:00.857Z"
+  },
+  {
+    "_id": "1775882580874",
+    "teamId": "1775883661320",
+    "teamName": "Fahh  : Ashmita N",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:43:00.874Z"
+  },
+  {
+    "_id": "1775882583542",
+    "teamId": "1775884039055",
+    "teamName": "Delight minds  : YOGASHRI R R",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:43:03.542Z"
+  },
+  {
+    "_id": "1775882583558",
+    "teamId": "1775883939817",
+    "teamName": "Nornheim  : Samyuktha B",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:43:03.558Z"
+  },
+  {
+    "_id": "1775882583590",
+    "teamId": "1775883967295",
+    "teamName": "NAANGA NAALU PERU ENGALUKU BAYAM KEDAIATHU:Yashvanth",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:43:03.590Z"
+  },
+  {
+    "_id": "1775882583607",
+    "teamId": "1775877986431",
+    "teamName": "blizard : vijay",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:43:03.607Z"
+  },
+  {
+    "_id": "1775882583623",
+    "teamId": "1775883661320",
+    "teamName": "Fahh  : Ashmita N",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:43:03.623Z"
+  },
+  {
+    "_id": "1775882585671",
+    "teamId": "1775884039055",
+    "teamName": "Delight minds  : YOGASHRI R R",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:43:05.671Z"
+  },
+  {
+    "_id": "1775882585686",
+    "teamId": "1775883939817",
+    "teamName": "Nornheim  : Samyuktha B",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:43:05.686Z"
+  },
+  {
+    "_id": "1775882585717",
+    "teamId": "1775883967295",
+    "teamName": "NAANGA NAALU PERU ENGALUKU BAYAM KEDAIATHU:Yashvanth",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:43:05.717Z"
+  },
+  {
+    "_id": "1775882585732",
+    "teamId": "1775877986431",
+    "teamName": "blizard : vijay",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:43:05.732Z"
+  },
+  {
+    "_id": "1775882585748",
+    "teamId": "1775883661320",
+    "teamName": "Fahh  : Ashmita N",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:43:05.748Z"
+  },
+  {
+    "_id": "1775882587378",
+    "teamId": "1775884039055",
+    "teamName": "Delight minds  : YOGASHRI R R",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:43:07.378Z"
+  },
+  {
+    "_id": "1775882587396",
+    "teamId": "1775883939817",
+    "teamName": "Nornheim  : Samyuktha B",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:43:07.396Z"
+  },
+  {
+    "_id": "1775882587427",
+    "teamId": "1775883967295",
+    "teamName": "NAANGA NAALU PERU ENGALUKU BAYAM KEDAIATHU:Yashvanth",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:43:07.428Z"
+  },
+  {
+    "_id": "1775882587444",
+    "teamId": "1775877986431",
+    "teamName": "blizard : vijay",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:43:07.445Z"
+  },
+  {
+    "_id": "1775882587460",
+    "teamId": "1775883661320",
+    "teamName": "Fahh  : Ashmita N",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:43:07.460Z"
+  },
+  {
+    "_id": "1775882589117",
+    "teamId": "1775884039055",
+    "teamName": "Delight minds  : YOGASHRI R R",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:43:09.117Z"
+  },
+  {
+    "_id": "1775882589135",
+    "teamId": "1775883939817",
+    "teamName": "Nornheim  : Samyuktha B",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:43:09.135Z"
+  },
+  {
+    "_id": "1775882589167",
+    "teamId": "1775883967295",
+    "teamName": "NAANGA NAALU PERU ENGALUKU BAYAM KEDAIATHU:Yashvanth",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:43:09.167Z"
+  },
+  {
+    "_id": "1775882589183",
+    "teamId": "1775877986431",
+    "teamName": "blizard : vijay",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:43:09.183Z"
+  },
+  {
+    "_id": "1775882589198",
+    "teamId": "1775883661320",
+    "teamName": "Fahh  : Ashmita N",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:43:09.198Z"
+  },
+  {
+    "_id": "1775882592330",
+    "teamId": "1775884039055",
+    "teamName": "Delight minds  : YOGASHRI R R",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:43:12.330Z"
+  },
+  {
+    "_id": "1775882592345",
+    "teamId": "1775883939817",
+    "teamName": "Nornheim  : Samyuktha B",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:43:12.345Z"
+  },
+  {
+    "_id": "1775882592375",
+    "teamId": "1775883967295",
+    "teamName": "NAANGA NAALU PERU ENGALUKU BAYAM KEDAIATHU:Yashvanth",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:43:12.375Z"
+  },
+  {
+    "_id": "1775882592390",
+    "teamId": "1775877986431",
+    "teamName": "blizard : vijay",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:43:12.390Z"
+  },
+  {
+    "_id": "1775882592406",
+    "teamId": "1775883661320",
+    "teamName": "Fahh  : Ashmita N",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:43:12.406Z"
+  },
+  {
+    "_id": "1775882593942",
+    "teamId": "1775884039055",
+    "teamName": "Delight minds  : YOGASHRI R R",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:43:13.942Z"
+  },
+  {
+    "_id": "1775882593957",
+    "teamId": "1775883939817",
+    "teamName": "Nornheim  : Samyuktha B",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:43:13.957Z"
+  },
+  {
+    "_id": "1775882593989",
+    "teamId": "1775883967295",
+    "teamName": "NAANGA NAALU PERU ENGALUKU BAYAM KEDAIATHU:Yashvanth",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:43:13.989Z"
+  },
+  {
+    "_id": "1775882594009",
+    "teamId": "1775877986431",
+    "teamName": "blizard : vijay",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:43:14.009Z"
+  },
+  {
+    "_id": "1775882594026",
+    "teamId": "1775883661320",
+    "teamName": "Fahh  : Ashmita N",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:43:14.026Z"
+  },
+  {
+    "_id": "1775882595775",
+    "teamId": "1775884039055",
+    "teamName": "Delight minds  : YOGASHRI R R",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:43:15.775Z"
+  },
+  {
+    "_id": "1775882595792",
+    "teamId": "1775883939817",
+    "teamName": "Nornheim  : Samyuktha B",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:43:15.792Z"
+  },
+  {
+    "_id": "1775882595825",
+    "teamId": "1775883967295",
+    "teamName": "NAANGA NAALU PERU ENGALUKU BAYAM KEDAIATHU:Yashvanth",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:43:15.825Z"
+  },
+  {
+    "_id": "1775882595839",
+    "teamId": "1775877986431",
+    "teamName": "blizard : vijay",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:43:15.839Z"
+  },
+  {
+    "_id": "1775882595853",
+    "teamId": "1775883661320",
+    "teamName": "Fahh  : Ashmita N",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:43:15.853Z"
+  },
+  {
+    "_id": "1775882597789",
+    "teamId": "1775884039055",
+    "teamName": "Delight minds  : YOGASHRI R R",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:43:17.789Z"
+  },
+  {
+    "_id": "1775882597806",
+    "teamId": "1775883939817",
+    "teamName": "Nornheim  : Samyuktha B",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:43:17.806Z"
+  },
+  {
+    "_id": "1775882597840",
+    "teamId": "1775883967295",
+    "teamName": "NAANGA NAALU PERU ENGALUKU BAYAM KEDAIATHU:Yashvanth",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:43:17.840Z"
+  },
+  {
+    "_id": "1775882597854",
+    "teamId": "1775877986431",
+    "teamName": "blizard : vijay",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:43:17.854Z"
+  },
+  {
+    "_id": "1775882597866",
+    "teamId": "1775883661320",
+    "teamName": "Fahh  : Ashmita N",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:43:17.866Z"
+  },
+  {
+    "_id": "1775882600990",
+    "teamId": "1775884039055",
+    "teamName": "Delight minds  : YOGASHRI R R",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:43:20.990Z"
+  },
+  {
+    "_id": "1775882601008",
+    "teamId": "1775883939817",
+    "teamName": "Nornheim  : Samyuktha B",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:43:21.008Z"
+  },
+  {
+    "_id": "1775882601041",
+    "teamId": "1775883967295",
+    "teamName": "NAANGA NAALU PERU ENGALUKU BAYAM KEDAIATHU:Yashvanth",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:43:21.041Z"
+  },
+  {
+    "_id": "1775882601055",
+    "teamId": "1775877986431",
+    "teamName": "blizard : vijay",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:43:21.055Z"
+  },
+  {
+    "_id": "1775882601071",
+    "teamId": "1775883661320",
+    "teamName": "Fahh  : Ashmita N",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:43:21.071Z"
+  },
+  {
+    "_id": "1775882606034",
+    "teamId": "1775884039055",
+    "teamName": "Delight minds  : YOGASHRI R R",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:43:26.034Z"
+  },
+  {
+    "_id": "1775882606052",
+    "teamId": "1775883939817",
+    "teamName": "Nornheim  : Samyuktha B",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:43:26.052Z"
+  },
+  {
+    "_id": "1775882606085",
+    "teamId": "1775883967295",
+    "teamName": "NAANGA NAALU PERU ENGALUKU BAYAM KEDAIATHU:Yashvanth",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:43:26.085Z"
+  },
+  {
+    "_id": "1775882606101",
+    "teamId": "1775877986431",
+    "teamName": "blizard : vijay",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:43:26.101Z"
+  },
+  {
+    "_id": "1775882606116",
+    "teamId": "1775883661320",
+    "teamName": "Fahh  : Ashmita N",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:43:26.116Z"
+  },
+  {
+    "_id": "1775882608069",
+    "teamId": "1775884039055",
+    "teamName": "Delight minds  : YOGASHRI R R",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:43:28.069Z"
+  },
+  {
+    "_id": "1775882608085",
+    "teamId": "1775883939817",
+    "teamName": "Nornheim  : Samyuktha B",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:43:28.085Z"
+  },
+  {
+    "_id": "1775882608127",
+    "teamId": "1775883967295",
+    "teamName": "NAANGA NAALU PERU ENGALUKU BAYAM KEDAIATHU:Yashvanth",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:43:28.127Z"
+  },
+  {
+    "_id": "1775882608144",
+    "teamId": "1775877986431",
+    "teamName": "blizard : vijay",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:43:28.144Z"
+  },
+  {
+    "_id": "1775882608166",
+    "teamId": "1775883661320",
+    "teamName": "Fahh  : Ashmita N",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:43:28.166Z"
+  },
+  {
+    "_id": "1775882610928",
+    "teamId": "1775884039055",
+    "teamName": "Delight minds  : YOGASHRI R R",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:43:30.928Z"
+  },
+  {
+    "_id": "1775882610947",
+    "teamId": "1775883939817",
+    "teamName": "Nornheim  : Samyuktha B",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:43:30.947Z"
+  },
+  {
+    "_id": "1775882610979",
+    "teamId": "1775883967295",
+    "teamName": "NAANGA NAALU PERU ENGALUKU BAYAM KEDAIATHU:Yashvanth",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:43:30.979Z"
+  },
+  {
+    "_id": "1775882610993",
+    "teamId": "1775877986431",
+    "teamName": "blizard : vijay",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:43:30.993Z"
+  },
+  {
+    "_id": "1775882611006",
+    "teamId": "1775883661320",
+    "teamName": "Fahh  : Ashmita N",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:43:31.006Z"
+  },
+  {
+    "_id": "1775882614089",
+    "teamId": "1775884039055",
+    "teamName": "Delight minds  : YOGASHRI R R",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:43:34.089Z"
+  },
+  {
+    "_id": "1775882614104",
+    "teamId": "1775883939817",
+    "teamName": "Nornheim  : Samyuktha B",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:43:34.104Z"
+  },
+  {
+    "_id": "1775882614137",
+    "teamId": "1775883967295",
+    "teamName": "NAANGA NAALU PERU ENGALUKU BAYAM KEDAIATHU:Yashvanth",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:43:34.137Z"
+  },
+  {
+    "_id": "1775882614154",
+    "teamId": "1775883661320",
+    "teamName": "Fahh  : Ashmita N",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:43:34.154Z"
+  },
+  {
+    "_id": "1775882614163",
+    "teamId": "1775877986431",
+    "teamName": "blizard : vijay",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:43:34.163Z"
+  },
+  {
+    "_id": "1775882624952",
+    "teamId": "1775884039055",
+    "teamName": "Delight minds  : YOGASHRI R R",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:43:44.952Z"
+  },
+  {
+    "_id": "1775882624969",
+    "teamId": "1775883939817",
+    "teamName": "Nornheim  : Samyuktha B",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:43:44.969Z"
+  },
+  {
+    "_id": "1775882625007",
+    "teamId": "1775883967295",
+    "teamName": "NAANGA NAALU PERU ENGALUKU BAYAM KEDAIATHU:Yashvanth",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:43:45.007Z"
+  },
+  {
+    "_id": "1775882625023",
+    "teamId": "1775877986431",
+    "teamName": "blizard : vijay",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:43:45.023Z"
+  },
+  {
+    "_id": "1775882625041",
+    "teamId": "1775883661320",
+    "teamName": "Fahh  : Ashmita N",
+    "points": -1,
+    "reason": "Global deduction",
+    "addedBy": "All teams adjustment",
+    "createdAt": "2026-04-11T04:43:45.041Z"
+  },
+  {
+    "_id": "1775882641812",
+    "teamId": "1775883661320",
+    "teamName": "Fahh  : Ashmita N",
+    "points": 2,
+    "reason": "0",
+    "addedBy": "Unknown",
+    "createdAt": "2026-04-11T04:44:01.812Z"
+  },
+  {
+    "_id": "1775882669693",
+    "teamId": "1775883939817",
+    "teamName": "Nornheim  : Samyuktha B",
+    "points": -2,
+    "reason": "0",
+    "addedBy": "Unknown",
+    "createdAt": "2026-04-11T04:44:29.693Z"
+  },
+  {
+    "_id": "1775882692153",
+    "teamId": "1775884039055",
+    "teamName": "Delight minds  : YOGASHRI R R",
+    "points": -3,
+    "reason": "0",
+    "addedBy": "Unknown",
+    "createdAt": "2026-04-11T04:44:52.153Z"
+  },
+  {
+    "_id": "1775883334297",
+    "teamId": "1775877986431",
+    "teamName": "blizard : vijay",
+    "points": 3,
+    "reason": "1",
+    "addedBy": "Unknown",
+    "createdAt": "2026-04-11T04:55:34.297Z"
+  },
+  {
+    "_id": "1775883404874",
+    "teamId": "1775883967295",
+    "teamName": "NAANGA NAALU PERU ENGALUKU BAYAM KEDAIATHU:Yashvanth",
+    "points": 5,
+    "reason": "2",
+    "addedBy": "Unknown",
+    "createdAt": "2026-04-11T04:56:44.874Z"
+  },
+  {
+    "_id": "1775883517687",
+    "teamId": "1775884039055",
+    "teamName": "Delight minds  : YOGASHRI R R",
+    "points": 2,
+    "reason": "3",
+    "addedBy": "Unknown",
+    "createdAt": "2026-04-11T04:58:37.687Z"
+  },
+  {
+    "_id": "1775883528229",
+    "teamId": "1775884039055",
+    "teamName": "Delight minds  : YOGASHRI R R",
+    "points": 2,
+    "reason": "3",
+    "addedBy": "Unknown",
+    "createdAt": "2026-04-11T04:58:48.229Z"
+  },
+  {
+    "_id": "1775883617108",
+    "teamId": "1775883939817",
+    "teamName": "Nornheim  : Samyuktha B",
+    "points": 3,
+    "reason": "5",
+    "addedBy": "Unknown",
+    "createdAt": "2026-04-11T05:00:17.108Z"
+  },
+  {
+    "_id": "1775883674714",
+    "teamId": "1775883661320",
+    "teamName": "Fahh  : Ashmita N",
+    "points": 3,
+    "reason": "5",
+    "addedBy": "Unknown",
+    "createdAt": "2026-04-11T05:01:14.714Z"
+  },
+  {
+    "_id": "1775883766920",
+    "teamId": "1775877986431",
+    "teamName": "blizard : vijay",
+    "points": 4,
+    "reason": "6",
+    "addedBy": "Unknown",
+    "createdAt": "2026-04-11T05:02:46.920Z"
+  },
+  {
+    "_id": "1775883795268",
+    "teamId": "1775877986431",
+    "teamName": "blizard : vijay",
+    "points": 5,
+    "reason": "7",
+    "addedBy": "Unknown",
+    "createdAt": "2026-04-11T05:03:15.268Z"
+  },
+  {
+    "_id": "1775883953856",
+    "teamId": "1775883939817",
+    "teamName": "Nornheim  : Samyuktha B",
+    "points": -3,
+    "reason": "r3",
+    "addedBy": "Unknown",
+    "createdAt": "2026-04-11T05:05:53.856Z"
+  },
+  {
+    "_id": "1775883966938",
+    "teamId": "1775883661320",
+    "teamName": "Fahh  : Ashmita N",
+    "points": -3,
+    "reason": "r3",
+    "addedBy": "Unknown",
+    "createdAt": "2026-04-11T05:06:06.938Z"
+  },
+  {
+    "_id": "1775883977183",
+    "teamId": "1775884039055",
+    "teamName": "Delight minds  : YOGASHRI R R",
+    "points": -4,
+    "reason": "r3",
+    "addedBy": "Unknown",
+    "createdAt": "2026-04-11T05:06:17.183Z"
+  },
+  {
+    "_id": "1775883986993",
+    "teamId": "1775883967295",
+    "teamName": "NAANGA NAALU PERU ENGALUKU BAYAM KEDAIATHU:Yashvanth",
+    "points": -5,
+    "reason": "r3",
+    "addedBy": "Unknown",
+    "createdAt": "2026-04-11T05:06:26.994Z"
+  },
+  {
+    "_id": "1775884004891",
+    "teamId": "1775877986431",
+    "teamName": "blizard : vijay",
+    "points": -12,
+    "reason": "r3",
+    "addedBy": "Unknown",
+    "createdAt": "2026-04-11T05:06:44.891Z"
+  },
+  {
+    "_id": "1775905331191",
+    "teamId": "1775883661320",
+    "teamName": "Fahh  : Ashmita N",
+    "points": 1,
+    "reason": "Quick point addition",
+    "addedBy": "Leaderboard button",
+    "createdAt": "2026-04-11T11:02:11.191Z"
+  },
+  {
+    "_id": "1775905332345",
+    "teamId": "1775883661320",
+    "teamName": "Fahh  : Ashmita N",
+    "points": -1,
+    "reason": "Quick point deduction",
+    "addedBy": "Leaderboard button",
+    "createdAt": "2026-04-11T11:02:12.345Z"
+  },
+  {
+    "_id": "1775905333039",
+    "teamId": "1775883661320",
+    "teamName": "Fahh  : Ashmita N",
+    "points": -1,
+    "reason": "Quick point deduction",
+    "addedBy": "Leaderboard button",
+    "createdAt": "2026-04-11T11:02:13.039Z"
+  },
+  {
+    "_id": "1775905334433",
+    "teamId": "1775883939817",
+    "teamName": "Nornheim  : Samyuktha B",
+    "points": -1,
+    "reason": "Quick point deduction",
+    "addedBy": "Leaderboard button",
+    "createdAt": "2026-04-11T11:02:14.433Z"
+  },
+  {
+    "_id": "1775905336464",
+    "teamId": "1775883967295",
+    "teamName": "NAANGA NAALU PERU ENGALUKU BAYAM KEDAIATHU:Yashvanth",
+    "points": 1,
+    "reason": "Quick point addition",
+    "addedBy": "Leaderboard button",
+    "createdAt": "2026-04-11T11:02:16.464Z"
+  },
+  {
+    "_id": "1775905337726",
+    "teamId": "1775883967295",
+    "teamName": "NAANGA NAALU PERU ENGALUKU BAYAM KEDAIATHU:Yashvanth",
+    "points": -1,
+    "reason": "Quick point deduction",
+    "addedBy": "Leaderboard button",
+    "createdAt": "2026-04-11T11:02:17.726Z"
+  },
+  {
+    "_id": "1775905338355",
+    "teamId": "1775883967295",
+    "teamName": "NAANGA NAALU PERU ENGALUKU BAYAM KEDAIATHU:Yashvanth",
+    "points": -1,
+    "reason": "Quick point deduction",
+    "addedBy": "Leaderboard button",
+    "createdAt": "2026-04-11T11:02:18.355Z"
+  },
+  {
+    "_id": "1775905342174",
+    "teamId": "1775884039055",
+    "teamName": "Delight minds  : YOGASHRI R R",
+    "points": -1,
+    "reason": "Quick point deduction",
+    "addedBy": "Leaderboard button",
+    "createdAt": "2026-04-11T11:02:22.174Z"
+  },
+  {
+    "_id": "1775905343132",
+    "teamId": "1775877986431",
+    "teamName": "blizard : vijay",
+    "points": -1,
+    "reason": "Quick point deduction",
+    "addedBy": "Leaderboard button",
+    "createdAt": "2026-04-11T11:02:23.132Z"
+  },
+  {
+    "_id": "1775905344870",
+    "teamId": "1775883661320",
+    "teamName": "Fahh  : Ashmita N",
+    "points": 1,
+    "reason": "Quick point addition",
+    "addedBy": "Leaderboard button",
+    "createdAt": "2026-04-11T11:02:24.870Z"
+  },
+  {
+    "_id": "1775905345053",
+    "teamId": "1775883661320",
+    "teamName": "Fahh  : Ashmita N",
+    "points": 1,
+    "reason": "Quick point addition",
+    "addedBy": "Leaderboard button",
+    "createdAt": "2026-04-11T11:02:25.053Z"
+  },
+  {
+    "_id": "1775905345221",
+    "teamId": "1775883661320",
+    "teamName": "Fahh  : Ashmita N",
+    "points": 1,
+    "reason": "Quick point addition",
+    "addedBy": "Leaderboard button",
+    "createdAt": "2026-04-11T11:02:25.221Z"
+  },
+  {
+    "_id": "1775905345370",
+    "teamId": "1775883661320",
+    "teamName": "Fahh  : Ashmita N",
+    "points": 1,
+    "reason": "Quick point addition",
+    "addedBy": "Leaderboard button",
+    "createdAt": "2026-04-11T11:02:25.370Z"
+  },
+  {
+    "_id": "1775905346864",
+    "teamId": "1775883661320",
+    "teamName": "Fahh  : Ashmita N",
+    "points": -1,
+    "reason": "Quick point deduction",
+    "addedBy": "Leaderboard button",
+    "createdAt": "2026-04-11T11:02:26.864Z"
+  },
+  {
+    "_id": "1775905347085",
+    "teamId": "1775883661320",
+    "teamName": "Fahh  : Ashmita N",
+    "points": -1,
+    "reason": "Quick point deduction",
+    "addedBy": "Leaderboard button",
+    "createdAt": "2026-04-11T11:02:27.085Z"
+  },
+  {
+    "_id": "1775905347367",
+    "teamId": "1775883661320",
+    "teamName": "Fahh  : Ashmita N",
+    "points": -1,
+    "reason": "Quick point deduction",
+    "addedBy": "Leaderboard button",
+    "createdAt": "2026-04-11T11:02:27.367Z"
+  },
+  {
+    "_id": "1775905349411",
+    "teamId": "1775883939817",
+    "teamName": "Nornheim  : Samyuktha B",
+    "points": 1,
+    "reason": "Quick point addition",
+    "addedBy": "Leaderboard button",
+    "createdAt": "2026-04-11T11:02:29.411Z"
+  },
+  {
+    "_id": "1775905352011",
+    "teamId": "1775883967295",
+    "teamName": "NAANGA NAALU PERU ENGALUKU BAYAM KEDAIATHU:Yashvanth",
+    "points": 1,
+    "reason": "Quick point addition",
+    "addedBy": "Leaderboard button",
+    "createdAt": "2026-04-11T11:02:32.011Z"
+  },
+  {
+    "_id": "1775905353136",
+    "teamId": "1775884039055",
+    "teamName": "Delight minds  : YOGASHRI R R",
+    "points": 1,
+    "reason": "Quick point addition",
+    "addedBy": "Leaderboard button",
+    "createdAt": "2026-04-11T11:02:33.136Z"
+  },
+  {
+    "_id": "1775905354403",
+    "teamId": "1775877986431",
+    "teamName": "blizard : vijay",
+    "points": 1,
+    "reason": "Quick point addition",
+    "addedBy": "Leaderboard button",
+    "createdAt": "2026-04-11T11:02:34.403Z"
+  },
+  {
+    "_id": "1775905489759",
+    "teamId": "1775883661320",
+    "teamName": "Fahh  : Ashmita N",
+    "points": 1,
+    "reason": "Quick point addition",
+    "addedBy": "Leaderboard button",
+    "createdAt": "2026-04-11T11:04:49.759Z"
+  },
+  {
+    "_id": "1775905491022",
+    "teamId": "1775883661320",
+    "teamName": "Fahh  : Ashmita N",
+    "points": -1,
+    "reason": "Quick point deduction",
+    "addedBy": "Leaderboard button",
+    "createdAt": "2026-04-11T11:04:51.022Z"
+  },
+  {
+    "_id": "1775905494373",
+    "teamId": "1775883661320",
+    "teamName": "Fahh  : Ashmita N",
+    "points": 1,
+    "reason": "Quick point addition",
+    "addedBy": "Leaderboard button",
+    "createdAt": "2026-04-11T11:04:54.373Z"
+  },
+  {
+    "_id": "1775905505000",
+    "teamId": "1775883661320",
+    "teamName": "Fahh  : Ashmita N",
+    "points": -1,
+    "reason": "1",
+    "addedBy": "Unknown",
+    "createdAt": "2026-04-11T11:05:05.000Z"
+  }
+]

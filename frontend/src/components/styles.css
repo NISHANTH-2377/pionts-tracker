@@ -232,6 +232,62 @@ button[type='submit']:disabled {
   text-align: right;
 }
 
+.team-actions {
+  display: flex;
+  gap: 8px;
+  margin: 0 15px;
+  align-items: center;
+}
+
+.point-btn {
+  padding: 6px 10px;
+  border: 2px solid #667eea;
+  background: white;
+  color: #667eea;
+  border-radius: 4px;
+  font-size: 1.1em;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.2s;
+  min-width: 36px;
+  min-height: 36px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.point-btn:hover:not(:disabled) {
+  background: #667eea;
+  color: white;
+  transform: scale(1.1);
+  box-shadow: 0 2px 8px rgba(102, 126, 234, 0.3);
+}
+
+.point-btn.plus {
+  border-color: #38b673;
+  color: #38b673;
+}
+
+.point-btn.plus:hover:not(:disabled) {
+  background: #38b673;
+  color: white;
+}
+
+.point-btn.minus {
+  border-color: #e74c3c;
+  color: #e74c3c;
+}
+
+.point-btn.minus:hover:not(:disabled) {
+  background: #e74c3c;
+  color: white;
+}
+
+.point-btn:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
 /* Search Container */
 .search-container {
   margin-bottom: 20px;

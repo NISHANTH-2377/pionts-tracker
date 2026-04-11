@@ -256,6 +256,61 @@ function Home() {
     }
   };
 
+  // Add 1 point to individual team
+  const handleAddPointToTeam = async (teamId) => {
+    setFormLoading(true);
+    try {
+      const response = await axios.post(
+        `${API_BASE}/teams/${teamId}/points`,
+        {
+          pointsAdded: 1,
+          reason: 'Quick point addition',
+          addedBy: 'Leaderboard button',
+        }
+      );
+      setSelectedTeam((prevSelected) => 
+        prevSelected && prevSelected._id === teamId ? response.data : prevSelected
+      );
+      fetchTeams();
+      setSuccessMessage('1 point added!');
+      setTimeout(() => setSuccessMessage(''), 2000);
+    } catch (error) {
+      console.error('Error adding point:', error);
+      setSuccessMessage('Error adding point');
+      setTimeout(() => setSuccessMessage(''), 2000);
+    } finally {
+      setFormLoading(false);
+    }
+  };
+
+  // Subtract 1 point from individual team
+  const handleSubtractPointFromTeam = async (teamId) => {
+    setFormLoading(true);
+    try {
+      const response = await axios.post(
+        `${API_BASE}/teams/${teamId}/points`,
+        {
+          pointsAdded: -1,
+          reason: 'Quick point deduction',
+          addedBy: 'Leaderboard button',
+        }
+      );
+      setSelectedTeam((prevSelected) => 
+        prevSelected && prevSelected._id === teamId ? response.data : prevSelected
+      );
+      fetchTeams();
+      setSuccessMessage('1 point removed!');
+      setTimeout(() => setSuccessMessage(''), 2000);
+    } catch (error) {
+      console.error('Error removing point:', error);
+      const errorMessage = error.response?.data?.message || 'Error removing point';
+      setSuccessMessage(errorMessage);
+      setTimeout(() => setSuccessMessage(''), 3000);
+    } finally {
+      setFormLoading(false);
+    }
+  };
+
   if (loading) {
     return <div className="container"><p>Loading...</p></div>;
   }
@@ -310,6 +365,9 @@ function Home() {
               team.name.toLowerCase().includes(searchQuery.toLowerCase())
             )} 
             onSelectTeam={handleSelectTeam}
+            onAddPoints={handleAddPointToTeam}
+            onSubtractPoints={handleSubtractPointFromTeam}
+            isLoading={formLoading}
           />
         </div>
 

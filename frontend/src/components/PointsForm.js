@@ -18,9 +18,13 @@ const PointsForm = ({ teamId, onSubmit, isLoading }) => {
 
   const handleSubmit = (e) => {
     e.preventDefault();
+    const points = parseInt(formData.pointsAdded);
+    if (isNaN(points) || points === 0) {
+      return;
+    }
     onSubmit({
       ...formData,
-      pointsAdded: parseInt(formData.pointsAdded),
+      pointsAdded: points,
     });
     setFormData({
       pointsAdded: '',
